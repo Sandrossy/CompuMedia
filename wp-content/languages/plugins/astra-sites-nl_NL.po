@@ -1,0 +1,1371 @@
+# Translation of Plugins - Starter Templates – Elementor, Beaver Builder, Gutenberg &amp; Brizy Templates - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Starter Templates – Elementor, Beaver Builder, Gutenberg &amp; Brizy Templates - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-23 13:17:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Starter Templates – Elementor, Beaver Builder, Gutenberg &amp; Brizy Templates - Stable (latest release)\n"
+
+#: classes/class-astra-sites-admin.php:99
+msgid "I already did"
+msgstr "Heb ik al gedaan"
+
+#: classes/class-astra-sites-admin.php:98
+msgid "Nope, maybe later"
+msgstr "Nee, misschien later"
+
+#: classes/class-astra-sites-admin.php:96
+msgid "Ok, you deserve it"
+msgstr "Ok, je verdient het"
+
+#: classes/class-astra-sites-admin.php:94
+msgid "Could you please do us a BIG favor and give it a 5-star rating on WordPress? This would boost our motivation and help other users make a comfortable decision while choosing the Starter Templates."
+msgstr "Kun je ons alsjeblieft een GROOT plezier doen en het een 5-sterren waardering geven op WordPress? Dit zou onze motivatie een boost geven en andere gebruikers helpen een comfortabele beslissing te nemen bij het kiezen van de Startertemplates."
+
+#: classes/class-astra-sites-admin.php:93
+msgid "Hello! Seems like you have used Starter Templates to build this website &mdash; Thanks a ton!"
+msgstr "Het lijkt erop dat je Startertemplates hebt gebruikt om deze site te bouwen &mdash; Heel erg bedankt!"
+
+#: inc/includes/image-templates.php:63
+msgid "SafeSearch"
+msgstr "SafeSearch"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:1225
+#: inc/classes/class-astra-sites.php:1230
+#: inc/classes/class-astra-sites.php:1235 inc/includes/admin-page.php:628
+msgid "Read an article <a href=\"%s\" target=\"_blank\">here</a> to resolve the issue."
+msgstr "Lees een artikel <a href=\"%s\" target=\"_blank\">hier</a> om het probleem op te lossen."
+
+#. translators: %1$s External Link
+#: inc/includes/admin-page.php:590
+msgid "%1$sRead more%2$s about customizing this Elementor Style Kit site."
+msgstr "%1$sRead more%2$s over het aanpassen van deze Elementor Style Kit site."
+
+#: inc/classes/class-astra-sites.php:1206
+msgid "Dismiss this notice."
+msgstr "Negeer deze melding."
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:408
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "Sta %s producten toe om niet-gevoelige gebruiksgegevens bij te houden."
+
+#. translators: %s is the dynamic string.
+#: inc/includes/admin-page.php:762
+msgid "The import process can take a few minutes depending on the size of the %s and speed of the connection."
+msgstr "Het importproces kan enkele minuten duren, afhankelijk van de grootte van de %s en de snelheid van de verbinding."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr "Leer meer."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr "Dit geldt voor alle sites van het netwerk."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr "Gebruik bijhouden"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr "Nee, dank je wel"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr "Ja! Sta het toe"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+msgid " Know More."
+msgstr "Meer weten."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr "Dit geldt voor alle sites van het netwerk."
+
+#. translators: %s product name
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+msgid "Want to help make <strong>%1s</strong> even more awesome? Allow us to collect non-sensitive diagnostic data and usage information. "
+msgstr "Wil je helpen om <strong>%1s</strong> nog leuker te maken? Sta ons toe om niet-gevoelige slidegnostische gegevens en gebruiksinformatie te verzamelen."
+
+#: inc/classes/class-astra-sites.php:1647
+msgid "Insufficient Permission. Please contact your Super Admin to allow the install required plugin permissions."
+msgstr "Onvoldoende toestemming. Neem contact op met je super beheerder om de vereiste rechten voor de plugin te installeren."
+
+#. translators: %s update page link.
+#: inc/classes/class-astra-sites.php:1240
+msgid "Kindly <a href=\"%s\" target=\"_blank\">update</a> them for a successful import. Skipping this step might break the template design/feature."
+msgstr "<a href=\"%s\" target=\"_blank\">update</a> ze voor een succesvolle import. Als je deze stap overslaat, kan het ontwerp/functie van de template kapot gaan."
+
+#. translators: %s is a template name
+#: inc/classes/class-astra-sites.php:1181
+msgid "Import \"%s\" Template"
+msgstr "Importeer \"%s\" template"
+
+#: inc/includes/admin-page.php:101
+msgid "Update"
+msgstr "Updaten"
+
+#: inc/classes/class-astra-sites-importer-log.php:98
+msgid "This is usually due to inconsistent file permissions."
+msgstr "Dit is meestal te wijten aan inconsistente bestandsrechten."
+
+#: inc/classes/class-astra-sites.php:1366
+msgid "Block"
+msgstr "Blok"
+
+#: inc/classes/class-astra-sites.php:1365
+msgid "Template"
+msgstr "Template"
+
+#. translators: %s is a documentation link.
+#: inc/classes/class-astra-sites.php:1171
+#: inc/classes/class-astra-sites.php:1173
+msgid "<p>Your website is facing a temporary issue in connecting the template server.</p><p>Read <a href=\"%s\" target=\"_blank\">article</a> to resolve the issue and continue importing template.</p>"
+msgstr "<p>Je site heeft te maken met een tijdelijk probleem bij het verbinden van de template server.</p><p>Lees <a href=\"%s\" target=\"_blank\">artikel</a> om het probleem op te lossen en door te gaan met het importeren van template.</p>"
+
+#: inc/classes/class-astra-sites.php:1169
+msgid "<p>WordPress debug mode is currently enabled on your website. This has interrupted the import process..</p><p>Kindly disable debug mode and try importing Starter Template again.</p><p>You can add the following code into the wp-config.php file to disable debug mode.</p><p><code>define('WP_DEBUG', false);</code></p>"
+msgstr "<p>WordPress debug-modus is momenteel ingeschakeld op je site. Dit heeft het importproces onderbroken..</p><p> Schakel de foutopsporing modus uit en probeer de Starter Template opnieuw te importeren.</p><p> Je kan de volgende code toevoegen aan het bestand wp-config.php om de foutopsporing modus uit te schakelen.</p><p><code>define('WP_DEBUG', false);</code></p>"
+
+#: inc/classes/class-astra-sites.php:1168
+msgid "Some of the files required during the import process are missing.<br/><br/>Please try again after some time."
+msgstr "Sommige van de bestanden die vereist zijn tijdens het importproces, ontbreken.<br/><br/>Probeer het na enige tijd opnieuw."
+
+#: inc/classes/class-astra-sites.php:1167
+msgid "Syncing template library in the background. The process can take anywhere between 2 to 3 minutes. We will notify you once done."
+msgstr "Synchronisatie van template bibliotheek op de achtergrond. Het proces kan 2 tot 3 minuten duren. Zodra het klaar is, laten we je het weten."
+
+#: inc/includes/admin-page.php:687
+msgid "/wp-content/uploads/astra-sites/"
+msgstr "/wp-inhoud/uploads/astra-sites/"
+
+#: inc/includes/admin-page.php:687
+msgid "You can find the backup to the current customizer settings at "
+msgstr "Je kan de back-up naar de huidige customizer instellingen vinden op"
+
+#: inc/includes/admin-page.php:595 inc/includes/admin-page.php:611
+msgid "PS: We try our best to use images that are free from legal perspectives. However, we do not take any responsibility. We strongly advise website owners to replace the images and any copyrighted media before publishing them online."
+msgstr "PS: We doen ons best om afbeeldingen te gebruiken die vrij zijn van juridische perspectieven. Wij nemen echter geen enkele verantwoordelijkheid. We raden site-eigenaren ten zeerste aan om de afbeeldingen en alle auteursrechtelijk beschermde media te vervangen voordat ze online worden gepubliceerd."
+
+#: inc/includes/templates.php:301
+msgid "Get Access!"
+msgstr "Toegang krijgen!"
+
+#: inc/includes/templates.php:223 inc/includes/templates.php:296
+msgid "INSERT"
+msgstr "INVOEGEN"
+
+#: inc/includes/templates.php:51
+msgid "SEARCH"
+msgstr "ZOEKEN"
+
+#. translators: 1: The HTTP response code.
+#: inc/classes/class-astra-sites-page.php:924
+msgid "Unexpected HTTP response code: %s"
+msgstr "Onverwachte HTTP antwoord code: %s"
+
+#: inc/classes/class-astra-sites-page.php:888
+msgid "ERROR! Cron schedules are disabled by setting constant ALTERNATE_WP_CRON to true.<br/>To start the import process please enable the cron by setting the constant to false. E.g. define( 'ALTERNATE_WP_CRON', false );"
+msgstr "Fout! Cron-schema's worden uitgeschakeld door constante ALTERNATE_WP_CRON in te stellen op true.<br/>schakel de cron in door de constante op false te zetten om het importproces te starten. Bijv. Define ('ALTERNATE_WP_CRON', false);"
+
+#: inc/classes/class-astra-sites-page.php:884
+msgid "ERROR! Cron schedules are disabled by setting constant DISABLE_WP_CRON to true.<br/>To start the import process please enable the cron by setting the constant to false. E.g. define( 'DISABLE_WP_CRON', false );"
+msgstr "Fout! Cron-schema's worden uitgeschakeld door constante DISABLE_WP_CRON in te stellen op true.<br/>Schakel de cron in door de constante op false te zetten om het importproces te starten. Bijv. Define ('DISABLE_WP_CRON', false);"
+
+#: inc/classes/class-astra-sites-page.php:830
+msgid "now"
+msgstr "nu"
+
+#. translators: 1: The number of seconds in an interval of time.
+#: inc/classes/class-astra-sites-page.php:826
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s seconde"
+msgstr[1] "%s seconden"
+
+#. translators: 1: The number of minutes in an interval of time.
+#: inc/classes/class-astra-sites-page.php:824
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s minuut"
+msgstr[1] "%s minuten"
+
+#. translators: 1: The number of hours in an interval of time.
+#: inc/classes/class-astra-sites-page.php:822
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s uur"
+msgstr[1] "%s uren"
+
+#. translators: 1: The number of days in an interval of time.
+#: inc/classes/class-astra-sites-page.php:820
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s dag"
+msgstr[1] "%s dagen"
+
+#. translators: 1: The number of weeks in an interval of time.
+#: inc/classes/class-astra-sites-page.php:818
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s week"
+msgstr[1] "%s weken"
+
+#. translators: 1: The number of months in an interval of time.
+#: inc/classes/class-astra-sites-page.php:816
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s maand"
+msgstr[1] "%s maanden"
+
+#. translators: 1: The number of years in an interval of time.
+#: inc/classes/class-astra-sites-page.php:814
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s jaar"
+msgstr[1] "%s jaren"
+
+#: inc/classes/class-astra-sites-page.php:614 inc/includes/templates.php:29
+msgid "Free"
+msgstr "Gratis"
+
+#: inc/classes/class-astra-sites-page.php:501
+msgid "My Favorite"
+msgstr "Mijn favoriet"
+
+#: inc/classes/class-astra-sites-page.php:436
+msgid "Getting Started"
+msgstr "Beginnen"
+
+#: inc/classes/class-astra-sites-wp-cli.php:570
+msgid "This site type does not exist. Please try a different site type."
+msgstr "Dit site type bestaat niet. Probeer een ander site type."
+
+#: inc/classes/class-astra-sites-wp-cli.php:561
+msgid "This page builder plugin is not installed. Please try a different page builder."
+msgstr "Deze plugin voor het maken van pagina's is niet geïnstalleerd. Probeer een andere paginabuilder."
+
+#: inc/classes/class-astra-sites-importer-log.php:431
+msgid "You currently have no scheduled cron events."
+msgstr "Je hebt momenteel geen geplande cron-evenementen."
+
+#: inc/classes/class-astra-sites-importer-log.php:101
+msgid "You can easily update permissions by adding the following code into the wp-config.php file."
+msgstr "Je kan machtigingen gemakkelijk bijwerken door de volgende code toe te voegen aan het bestand wp-config.php."
+
+#: inc/classes/class-astra-sites-importer-log.php:96
+msgid "Required File Permissions to import the templates are missing."
+msgstr "Vereiste bestandsrechten om de templates te importeren ontbreken."
+
+#: inc/classes/class-astra-sites.php:1841
+msgid "Template library refreshed!"
+msgstr "Template bibliotheek vernieuwd!"
+
+#: inc/classes/class-astra-sites.php:1487
+msgid "Error: You don't have the required permissions to install plugins."
+msgstr "Fout: Je hebt niet de vereiste rechten om plugins te installeren."
+
+#: inc/classes/class-astra-sites.php:1374
+msgid "Read More →"
+msgstr "Lees meer →"
+
+#: inc/classes/class-astra-sites.php:1372
+msgid "You can locate <strong>Starter Templates Settings</strong> under the <strong>Page Settings</strong> of the Style Tab."
+msgstr "Je kan <strong>starter templates instellingen</strong> vinden onder de <strong>page settings</strong> van de stijl tab."
+
+#. translators: %s are link.
+#: inc/classes/class-astra-sites.php:1339
+msgid "This is a premium template available with 'Agency' packages. <a href=\"%s\" target=\"_blank\">Validate Your License</a> Key to import this template."
+msgstr "Dit is een premium template die beschikbaar is bij 'Agency' pakketten. <a href=\"%s\" target=\"_blank\">valideer je licentie</a> sleutel om deze template te importeren."
+
+#. translators: %s are link.
+#: inc/classes/class-astra-sites.php:1335
+msgid "This is a premium website demo available only with the Agency Bundles you can purchase it from <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Dit is een premium site-demo die alleen beschikbaar is met de agency bundles die je kan kopen <a href=\"%s\" target=\"_blank\">hier</a>."
+
+#: inc/classes/class-astra-sites.php:1247
+msgid "Dynamic Page"
+msgstr "Dynamische pagina"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:1235
+msgid "Kindly disable it to continue importing the Starter Template. To do so, you can add the following code into the wp-config.php file."
+msgstr "Schakel het uit om door te gaan met het importeren van de starter template. Om dit te doen, kan je de volgende code toevoegen aan het wp-config.php bestand."
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:1235
+msgid "WordPress debug mode is currently enabled on your website. With this, any errors from third-party plugins might affect the import process."
+msgstr "De foutopsporing modus van WordPress is momenteel ingeschakeld op je site. Hiermee kunnen eventuele fouten van plugins van derden het importproces beïnvloeden."
+
+#: inc/classes/class-astra-sites.php:1233
+msgid "Disable Debug Mode"
+msgstr "Schakel de foutopsporing modus uit"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:1230
+msgid "To run a smooth import, kindly enable cURL support on your website."
+msgstr "Schakel cURL ondersteuning op je site in om het importeren soepel te laten verlopen."
+
+#: inc/classes/class-astra-sites.php:1228
+msgid "cURL Support Missing"
+msgstr "cURL ondersteuning ontbreekt"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:1225
+msgid "You're close to importing the template. To complete the process, enable XMLReader support on your website.."
+msgstr "Je bent dichtbij het importeren van de template. Schakel XMLreader ondersteuning in op je site om het proces af te ronden.."
+
+#: inc/classes/class-astra-sites.php:1223
+msgid "XMLReader Support Missing"
+msgstr "XMLreader ondersteuning ontbreekt"
+
+#. translators: %s are white label strings.
+#: inc/classes/class-astra-sites.php:1186
+msgid "Installing %1$s Theme.."
+msgstr "%1$s thema installeren.."
+
+#: inc/classes/class-astra-sites.php:1184
+msgid "Installing Required Plugins.."
+msgstr "Vereiste plugins installeren..."
+
+#: inc/classes/class-astra-sites.php:1078
+msgid "Activated!"
+msgstr "Geactiveerd!"
+
+#: inc/classes/class-astra-sites.php:1024
+msgid "An error occured with code "
+msgstr "Er is een fout opgetreden met de code"
+
+#: inc/classes/class-astra-sites.php:1023
+msgid "Please enter an API key."
+msgstr "Voer een API-sleutel in."
+
+#: inc/classes/class-astra-sites.php:1022
+msgid "Validating..."
+msgstr "Valideren..."
+
+#: inc/classes/class-astra-sites.php:1021
+msgid "Downloading..."
+msgstr "Downloaden..."
+
+#: inc/classes/class-astra-sites.php:1020
+msgid "Pixabay Search - Ex: flowers"
+msgstr "Zoeken op Pixabay - bijv.: bloemen"
+
+#: inc/classes/class-astra-sites.php:1019
+msgid "Free Images from Pixabay"
+msgstr "Gratis afbeeldingen van Pixabay"
+
+#: inc/classes/class-astra-sites.php:1017
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+#: inc/classes/class-astra-sites.php:1016
+msgid "Vertical"
+msgstr "Verticaal"
+
+#: inc/classes/class-astra-sites.php:1015
+msgid "Any Orientation"
+msgstr "Elke oriëntatie"
+
+#: inc/classes/class-astra-sites.php:1012
+msgid "Editor's Choice"
+msgstr "Editor's keuze"
+
+#: inc/classes/class-astra-sites.php:1011
+msgid "Upcoming"
+msgstr "Aankomende"
+
+#: inc/classes/class-astra-sites.php:1010
+msgid "Latest"
+msgstr "Laatste"
+
+#: inc/classes/class-astra-sites.php:1009
+msgid "Popular"
+msgstr "Populair"
+
+#: inc/classes/class-astra-sites.php:1006
+msgid "Travel/Vacation"
+msgstr "Reizen/Vakantie"
+
+#: inc/classes/class-astra-sites.php:1005
+msgid "Transportation/Traffic"
+msgstr "Vervoer/Verkeer"
+
+#: inc/classes/class-astra-sites.php:1004
+msgid "Sports"
+msgstr "Sport"
+
+#: inc/classes/class-astra-sites.php:1003
+msgid "Science/Technology"
+msgstr "Wetenschap/Technologie"
+
+#: inc/classes/class-astra-sites.php:1002
+msgid "Religion"
+msgstr "Religie"
+
+#: inc/classes/class-astra-sites.php:1001
+msgid "Places/Monuments"
+msgstr "Plaatsen/Monumenten"
+
+#: inc/classes/class-astra-sites.php:1000
+msgid "People"
+msgstr "Mensen"
+
+#: inc/classes/class-astra-sites.php:999
+msgid "Nature/Landscapes"
+msgstr "Natuur/Landschappen"
+
+#: inc/classes/class-astra-sites.php:998
+msgid "Music"
+msgstr "Muziek"
+
+#: inc/classes/class-astra-sites.php:997
+msgid "Industry/Craft"
+msgstr "Industrieel/Ambachtelijk"
+
+#: inc/classes/class-astra-sites.php:996
+msgid "Health/Medical"
+msgstr "Gezondheid/Medisch"
+
+#: inc/classes/class-astra-sites.php:995
+msgid "Food/Drink"
+msgstr "Eten/Drinken"
+
+#: inc/classes/class-astra-sites.php:994
+msgid "Emotions"
+msgstr "Emoties"
+
+#: inc/classes/class-astra-sites.php:993
+msgid "Education"
+msgstr "Opleiding"
+
+#: inc/classes/class-astra-sites.php:992
+msgid "Computer/Communication"
+msgstr "Computer/Communicatie"
+
+#: inc/classes/class-astra-sites.php:991
+msgid "Business/Finance"
+msgstr "Zakelijk/fFinanciën"
+
+#: inc/classes/class-astra-sites.php:990
+msgid "Beauty/Fashion"
+msgstr "Schoonheid/Mode"
+
+#: inc/classes/class-astra-sites.php:989
+msgid "Backgrounds/Textures"
+msgstr "Achtergronden/Texturen"
+
+#: inc/classes/class-astra-sites.php:988
+msgid "Architecture/Buildings"
+msgstr "Architectuur/Gebouwen"
+
+#: inc/classes/class-astra-sites.php:987
+msgid "Animals"
+msgstr "Dieren"
+
+#: inc/classes/class-astra-sites.php:276
+msgid "Provided API URL is empty! Please try again!"
+msgstr "De opgegeven API URL is leeg! Probeer het opnieuw!"
+
+#: inc/classes/class-astra-sites.php:254
+msgid "Invalid Post ID or Elementor Meta"
+msgstr "Ongeldige bericht-id of Elementor-meta"
+
+#: inc/classes/class-astra-sites.php:247
+msgid "Invalid Post Meta"
+msgstr "Ongeldige bericht-meta"
+
+#: inc/classes/class-astra-sites.php:235
+msgid "Invalid API URL"
+msgstr "Ongeldige API URL"
+
+#: inc/includes/image-templates.php:132
+msgid "Save & Insert"
+msgstr "Opslaan & invoegen"
+
+#: inc/includes/image-templates.php:130
+msgid "Already Saved"
+msgstr "Al opgeslagen"
+
+#: inc/includes/image-templates.php:120
+msgid "Back to Images"
+msgstr "Terug naar afbeeldingen"
+
+#: inc/includes/templates.php:533
+msgid "Save "
+msgstr "Opslaan"
+
+#: inc/includes/templates.php:532
+msgid "Import "
+msgstr "Importeren"
+
+#: inc/includes/templates.php:429
+msgid "Insert"
+msgstr "Invoegen"
+
+#: inc/classes/class-astra-sites-page.php:506 inc/includes/templates.php:127
+msgid "Sync Library"
+msgstr "Synchroniseer bibliotheek"
+
+#: inc/includes/templates.php:117
+msgid "Blocks"
+msgstr "Blokken"
+
+#: inc/includes/templates.php:116
+msgid "Pages"
+msgstr "Pagina's"
+
+#: inc/classes/class-astra-sites-page.php:627 inc/includes/templates.php:50
+msgid "Search..."
+msgstr "Zoeken..."
+
+#: inc/includes/templates.php:112
+msgid "Back to Layout"
+msgstr "Terug naar lay-out"
+
+#: inc/includes/templates.php:90
+msgid "Back to Pages"
+msgstr "Terug naar pagina's"
+
+#: inc/includes/templates.php:45
+msgid "Dark"
+msgstr "Donker"
+
+#: inc/includes/templates.php:44
+msgid "Light"
+msgstr "Licht"
+
+#: inc/includes/templates.php:43
+msgid "Filter by Color"
+msgstr "Filter op kleur"
+
+#: inc/classes/class-astra-sites.php:1367 inc/includes/templates.php:65
+msgid "Dismiss"
+msgstr "Negeren"
+
+#: inc/includes/admin-page.php:782
+msgid "Import"
+msgstr "Importeren"
+
+#: inc/includes/admin-page.php:741
+msgid "Import Content"
+msgstr "Inhoud importeren"
+
+#: inc/includes/admin-page.php:732
+msgid "Plugins needed to import this template are missing. Required plugins will be installed and activated automatically."
+msgstr "Plugins die nodig zijn om deze template te importeren, ontbreken. Vereiste plugins worden automatisch geïnstalleerd en geactiveerd."
+
+#. translators: %s are white label strings.
+#: inc/includes/admin-page.php:711
+msgid "%1$s customizer serves global settings that give uniform design to the website. Choosing this option will override your current customizer settings."
+msgstr "%1$s customizer biedt algemene instellingen die een uniform ontwerp aan de site geven. Als je deze optie kiest, worden je huidige aanpassingsinstellingen overschreven."
+
+#: inc/includes/admin-page.php:699
+msgid "To import the site in the original format, you would need the Astra theme activated. You can import it with any other theme, but the site might lose some of the design settings and look a bit different."
+msgstr "Om de site in het originele formaat te importeren, moet het Astra thema geactiveerd zijn. Je kan het met elk ander thema importeren, maar de site kan enkele ontwerpinstellingen verliezen en er een beetje anders uitzien."
+
+#: inc/includes/admin-page.php:698
+msgid "Install & Activate Astra Theme"
+msgstr "Installeer & activeer Astra Theme"
+
+#: inc/includes/admin-page.php:686
+msgid "Delete Previously Imported Site"
+msgstr "Verwijder eerder geïmporteerde site"
+
+#: inc/includes/admin-page.php:671
+msgid "Your Selected Template is Being Imported."
+msgstr "Je geselecteerde template wordt geïmporteerd."
+
+#: inc/includes/admin-page.php:669
+msgid "Your Selected Website is Being Imported."
+msgstr "Je geselecteerde site wordt geïmporteerd."
+
+#: inc/classes/class-astra-sites.php:1248 inc/includes/admin-page.php:647
+msgid "This dynamic content will be available when you import the entire site."
+msgstr "Deze dynamische inhoud is beschikbaar wanneer je de hele site importeert."
+
+#: inc/classes/class-astra-sites.php:1248 inc/includes/admin-page.php:646
+msgid "You will need to add it manually on the page."
+msgstr "Je moet het handmatig aan de pagina toevoegen."
+
+#: inc/classes/class-astra-sites.php:1248 inc/includes/admin-page.php:645
+msgid "The page template you are about to import contains a dynamic widget/module. Please note this dynamic data will not be available with the imported page."
+msgstr "De paginatemplate die je gaat importeren, bevat een dynamische widget/module. Let op: deze dynamische gegevens zijn niet beschikbaar op de geïmporteerde pagina."
+
+#: inc/includes/admin-page.php:641
+msgid "Heads Up!"
+msgstr "Heads Up!"
+
+#: inc/includes/admin-page.php:624
+msgid "Your website is facing a temporary issue connecting to the template server."
+msgstr "Je site heeft te maken met een tijdelijk probleem bij het verbinden met de templateserver."
+
+#: inc/includes/admin-page.php:614
+msgid "View Template"
+msgstr "Bekijk template"
+
+#: inc/includes/admin-page.php:608
+msgid "Hurray! The Template Imported Successfully! 🎉"
+msgstr "De template is succesvol geïmporteerd! 🎉"
+
+#: inc/includes/admin-page.php:598
+msgid "View Site"
+msgstr "Bekijk site"
+
+#: inc/includes/admin-page.php:594 inc/includes/admin-page.php:610
+msgid "Have fun!"
+msgstr "Veel plezier!"
+
+#: inc/includes/admin-page.php:585 inc/includes/admin-page.php:609
+msgid "Go ahead, customize the text, images and design to make it yours!"
+msgstr "Ga je gang, pas de tekst, afbeeldingen en ontwerp aan om er de jouwe van te maken!"
+
+#: inc/includes/admin-page.php:583
+msgid "Hurray! The Website Imported Successfully! 🎉"
+msgstr "De site is succesvol geïmporteerd! 🎉"
+
+#: inc/includes/admin-page.php:579 inc/includes/admin-page.php:604
+msgid "Imported Successfully!"
+msgstr "Succesvol geïmporteerd!"
+
+#: inc/includes/admin-page.php:568
+msgid "Import Template"
+msgstr "Template importeren"
+
+#: inc/includes/admin-page.php:567
+msgid "Import Complete Site"
+msgstr "Importeer volledige site"
+
+#: inc/includes/admin-page.php:557
+msgid "Not Valid License"
+msgstr "Geen geldige licentie"
+
+#: inc/classes/class-astra-sites.php:1244 inc/includes/admin-page.php:483
+msgid "This starter template requires premium plugins. As these are third party premium plugins, you'll need to purchase, install and activate them first."
+msgstr "Deze starter template vereist premium plugins. Aangezien dit premium plugins van derden zijn, moet je deze eerst kopen, installeren en activeren."
+
+#. translators: %s update page link.
+#: inc/classes/class-astra-sites.php:1240
+msgid "Updates are available for plugins used in this starter template."
+msgstr "Er zijn updates beschikbaar voor plugins die in deze starter template worden gebruikt."
+
+#: inc/classes/class-astra-sites.php:1238
+msgid "Update Plugin"
+msgstr "Update plug in"
+
+#: inc/includes/admin-page.php:462
+msgid "This is a premium website demo template. Please activate your license to access it."
+msgstr "Dit is een premium site demo template. Activeer je licentie om er toegang toe te krijgen."
+
+#. translators: %s is pricing page link
+#: inc/includes/admin-page.php:450
+msgid "<p>Seems like you have purchased the %4$s 'Mini Agency' package with a choice of '%1$s' page builder addon.</p><p>While this template is built with '%2$s' page builder addon.</p><p>Read article <a href=\"%3$s\" target=\"_blank\">here</a> to see how you can proceed.</p>"
+msgstr "<p>Het lijkt alsof je het %4$s 'Mini Agency' pakket hebt gekocht met een keuze uit '%1$s' page builder add-on.</p><p>Terwijl deze template is gebouwd met '%2$s' page builder add-on.</p><p>Lees artikel <a href=\"%3$s\" target=\"_blank\">hier</a> om te zien hoe je verder kan gaan.</p>"
+
+#: inc/includes/admin-page.php:418
+msgid "You can have the complete site preview from bottom left button."
+msgstr "Je kan het volledige site voorbeeld bekijken via de knop linksonder."
+
+#: inc/includes/admin-page.php:417
+msgid "The page templates which contain the dynamic widgets/modules are not available for single template import. With the \"Import Site\" option, you can get those pages."
+msgstr "De paginatemplates die de dynamische widgets/modules bevatten, zijn niet beschikbaar voor het importeren van één template. Met de \"Import site\" optie, kan je die pagina's ophalen."
+
+#. translators: %s is pricing page link
+#: inc/includes/admin-page.php:400
+msgid "This is a premium template available with 'Agency' package. you can purchase it from <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Dit is een premium template die beschikbaar is bij het 'Agency' pakket. Je kan het kopen bij <a href=\"%s\" target=\"_blank\">hier</a>."
+
+#: inc/includes/admin-page.php:329 inc/includes/admin-page.php:516
+msgid "Page Templates"
+msgstr "Pagina templates"
+
+#: inc/includes/admin-page.php:260
+msgid "Site Templates"
+msgstr "Site templates"
+
+#. translators: %s are white label strings.
+#. translators: %1$s External Link
+#: inc/classes/class-astra-sites-page.php:619 inc/includes/admin-page.php:231
+#: inc/includes/admin-page.php:320 inc/includes/admin-page.php:381
+#: inc/includes/templates.php:30 inc/includes/templates.php:178
+#: inc/includes/templates.php:307 inc/includes/templates.php:394
+msgid "Agency"
+msgstr "Agency"
+
+#. translators: %s are white label strings.
+#. translators: %1$s External Link
+#: inc/includes/admin-page.php:231 inc/includes/admin-page.php:320
+#: inc/includes/admin-page.php:381 inc/includes/templates.php:178
+#: inc/includes/templates.php:307 inc/includes/templates.php:394
+msgid "This premium template is accessible with %1$s \"Agency\" Package."
+msgstr "Deze premium template is toegankelijk met het %1$s\"Agency\" Pakket."
+
+#: inc/includes/admin-page.php:182 inc/includes/admin-page.php:278
+msgid "Make as Unfavorite"
+msgstr "Maken als niet-favoriet"
+
+#: inc/includes/admin-page.php:172 inc/includes/admin-page.php:269
+#: inc/includes/admin-page.php:338
+msgid "Make as Favorite"
+msgstr "Maak als favoriet"
+
+#. translators: %1$s External Link
+#: inc/includes/admin-page.php:148
+msgid "You'll notice a heart-shaped symbol on every template card. Simply tap this icon to mark the template as Favorite."
+msgstr "Op elke templatekaart zie je een hartvormig symbool. Tik gewoon op dit pictogram om de template als favoriet te markeren."
+
+#: inc/includes/admin-page.php:139
+msgid "Favorite Template List Is Empty."
+msgstr "Lijst met favoriete templates is leeg."
+
+#: inc/includes/admin-page.php:129 inc/includes/admin-page.php:152
+#: inc/includes/templates.php:244 inc/includes/templates.php:328
+#: inc/includes/templates.php:415 inc/includes/templates.php:477
+msgid "Back to Templates"
+msgstr "Terug naar templates"
+
+#: inc/includes/admin-page.php:116 inc/includes/image-templates.php:54
+#: inc/includes/image-templates.php:92 inc/includes/templates.php:234
+#: inc/includes/templates.php:318 inc/includes/templates.php:405
+#: inc/includes/templates.php:464
+msgid "Sorry No Results Found."
+msgstr "Geen resultaten gevonden!"
+
+#: inc/includes/admin-page.php:97 inc/includes/admin-page.php:105
+#: inc/includes/admin-page.php:492 inc/includes/admin-page.php:651
+#: inc/includes/admin-page.php:784 inc/includes/templates.php:456
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: inc/includes/admin-page.php:96 inc/includes/admin-page.php:102
+#: inc/includes/admin-page.php:104 inc/includes/admin-page.php:491
+#: inc/includes/admin-page.php:650 inc/includes/admin-page.php:783
+#: inc/includes/templates.php:455
+msgid "Skip & Import"
+msgstr "Sla over & Importeer"
+
+#: inc/includes/admin-page.php:66
+msgid "You're close to importing the template. To complete the process, please clear the following conditions."
+msgstr "Je bent bijna toe aan het importeren van de template. Om het proces te voltooien, dien je de volgende voorwaarden te wissen."
+
+#: inc/includes/admin-page.php:61
+msgid "We're Almost There!"
+msgstr "We zijn er bijna!"
+
+#: inc/includes/admin-page.php:43
+msgid "Heading"
+msgstr "Heading"
+
+#: inc/importers/batch-processing/helpers/class-wp-background-process-astra-site-importer.php:87
+msgid "All processes are complete"
+msgstr "Alle processen zijn voltooid"
+
+#. Description of the plugin
+msgid "Starter Templates is all in one solution for complete starter sites, single page templates, blocks & images. This plugin offers the premium library of ready templates & provides quick access to beautiful Pixabay images that can be imported in your website easily."
+msgstr "Starter Templates is alles in één oplossing voor complete startersites, templates voor één pagina, blokken & afbeeldingen. Deze plugin biedt de premium bibliotheek met kant-en-klare templates & biedt snelle toegang tot prachtige Pixabay-afbeeldingen die eenvoudig in je site kunnen worden geïmporteerd."
+
+#. Plugin URI of the plugin
+msgid "https://wpastra.com/"
+msgstr "https://wpastra.com/"
+
+#. Plugin Name of the plugin
+#: astra-sites.php:18 inc/classes/class-astra-sites-page.php:753
+msgid "Starter Templates"
+msgstr "Starter Templates"
+
+#: inc/classes/class-astra-sites-wp-cli.php:579
+msgid "This site category does not exist. Please try a different site category."
+msgstr "Deze sitecategorie bestaat niet. Probeer een andere sitecategorie."
+
+#: inc/classes/class-astra-sites-wp-cli.php:321
+msgid "Invalid XML URL."
+msgstr "Ongeldige XML URL."
+
+#: inc/classes/class-astra-sites-wp-cli.php:507
+msgid ""
+"Invalid parameter! \n"
+"Please use `list` or `set` parameter."
+msgstr ""
+"Ongeldige parameter!\n"
+"Gebruik `list` of `set` parameter."
+
+#: inc/classes/class-astra-sites-wp-cli.php:504
+msgid ""
+"Invalid page builder slug. \n"
+"Check all page builder slugs with command `wp astra-sites page_builder list`"
+msgstr ""
+"Ongeldige pagina builder slug.\n"
+"Kontroleer alle pagina builder slugs met het commando `wp astra-sites page_builder list`"
+
+#. translators: %s is the page builder name.
+#: inc/classes/class-astra-sites-wp-cli.php:501
+msgid "\"%s\" is set as default page builder."
+msgstr "\"%s\" is ingesteld als standaard paginabuilder."
+
+#. translators: %s is the current page builder name.
+#: inc/classes/class-astra-sites-wp-cli.php:493
+msgid "Default page builder is \"%s\"."
+msgstr "De standaard paginabuilder is \"%s\"."
+
+#: inc/classes/class-astra-sites-wp-cli.php:476
+msgid "Please add valid parameter."
+msgstr "Voeg een geldige parameter toe."
+
+#: inc/classes/class-astra-sites-wp-cli.php:427
+msgid "Importing customizer settings.."
+msgstr "Customizer instellingen importeren..."
+
+#: inc/classes/class-astra-sites-wp-cli.php:383
+msgid "Resting WP Forms..."
+msgstr "WP formulieren resetten..."
+
+#: inc/classes/class-astra-sites-wp-cli.php:376
+msgid "Reseting Terms.."
+msgstr "Voorwaarden resetten..."
+
+#: inc/classes/class-astra-sites-wp-cli.php:369
+msgid "Reseting Posts.."
+msgstr "Berichten resetten..."
+
+#: inc/classes/class-astra-sites-wp-cli.php:361
+msgid "Are you sure you want to delete imported site data?"
+msgstr "Weet je zeker dat je geïmporteerde sitegegevens wil verwijderen?"
+
+#. translators: %s is error message.
+#: inc/classes/class-astra-sites-wp-cli.php:334
+msgid "WXR file Download Failed. Error %s"
+msgstr "Downloaden van WXR-bestand mislukt. Fout %s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:330
+msgid "Importing WXR.."
+msgstr "WXR importeren..."
+
+#. translators: %s is the XML file URL.
+#: inc/classes/class-astra-sites-wp-cli.php:326
+msgid "Downloading %s"
+msgstr "Downloaden %s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:216
+msgid "Activating Plugins.."
+msgstr "Plugins activeren..."
+
+#: inc/classes/class-astra-sites-wp-cli.php:201
+msgid "Installing Plugins.."
+msgstr "Plugins installeren..."
+
+#. translators: %s is the activate plugin license link.
+#: inc/classes/class-astra-sites-wp-cli.php:188
+msgid "Use CLI command `wp brainstormforce license activate astra-pro-sites {YOUR_LICENSE_KEY}`"
+msgstr "Gebruik het cli commando `wp brainstormforce license activate astra-pro-sites {YOUR_LICENSE_KEY}`"
+
+#: inc/classes/class-astra-sites-wp-cli.php:184
+msgid "Use `wp plugin deactivate astra-sites` and then `wp plugin activate astra-pro-sites`"
+msgstr "Gebruik `wp plugin deactivate astra-sites` en vervolgens` wp plugin activeer astra-pro-sites`"
+
+#: inc/classes/class-astra-sites-wp-cli.php:183
+msgid "This is Agency site. Please activate the \"Starter Templates\" license!"
+msgstr "Dit is de site van Agency. Activeer de \"Starter templates\" licentie!"
+
+#. Translators: %s is the error message.
+#: inc/classes/class-astra-sites-wp-cli.php:171
+msgid "Site Import failed due to error: %s"
+msgstr "Het importeren van de site is mislukt vanwege een fout: %s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:161
+#: inc/classes/class-astra-sites-wp-cli.php:422
+msgid "Invalid Site ID,"
+msgstr "Ongeldige site ID,"
+
+#: inc/classes/class-astra-sites-wp-cli.php:155
+msgid "Are you sure you want to import the site?"
+msgstr "Weet je zeker dat je de site wil importeren?"
+
+#: inc/classes/class-astra-sites-wp-cli.php:120
+msgid "No sites found! Try another query."
+msgstr "Geen sites gevonden! Probeer een andere vraag."
+
+#: inc/classes/class-astra-sites.php:847
+msgid "User does not have permission!"
+msgstr "Gebruiker heeft geen toestemming!"
+
+#: admin/astra-notices/class-astra-notices.php:125
+msgid "WordPress Nonce not validated."
+msgstr "Wordpress nonce niet gevalideerd."
+
+#: inc/classes/class-astra-sites-importer.php:162
+#: inc/classes/class-astra-sites-importer.php:298
+#: inc/classes/class-astra-sites-importer.php:342
+#: inc/classes/class-astra-sites-importer.php:414
+#: inc/classes/class-astra-sites-importer.php:460
+#: inc/classes/class-astra-sites-importer.php:508
+#: inc/classes/class-astra-sites-importer.php:662
+#: inc/classes/class-astra-sites-importer.php:690
+#: inc/classes/class-astra-sites-importer.php:724
+#: inc/classes/class-astra-sites-importer.php:776
+#: inc/classes/class-astra-sites-importer.php:815
+#: inc/classes/class-astra-sites-importer.php:850
+#: inc/classes/class-astra-sites.php:231 inc/classes/class-astra-sites.php:405
+#: inc/classes/class-astra-sites.php:509 inc/classes/class-astra-sites.php:582
+#: inc/classes/class-astra-sites.php:773 inc/classes/class-astra-sites.php:792
+msgid "You are not allowed to perform this action"
+msgstr "Je mag deze actie niet uitvoeren"
+
+#: inc/includes/templates.php:447
+msgid "This starter site requires premium plugins. As these are third party premium plugins, you'll need to purchase, install and activate them first."
+msgstr "Deze startersite vereist premium plugins. Aangezien dit premium plugins van derden zijn, moet je deze eerst kopen, installeren en activeren."
+
+#: inc/classes/class-astra-sites.php:1243 inc/includes/admin-page.php:479
+#: inc/includes/templates.php:443
+msgid "Required Plugins Missing"
+msgstr "Vereiste plugins ontbreken"
+
+#. translators: %s is the dynamic string.
+#: inc/includes/admin-page.php:768
+msgid "Please do NOT close this browser window until the %s is imported completely."
+msgstr "Sluit dit browservenster pas als de site volledig is geïmporteerd."
+
+#: inc/classes/class-astra-sites-page.php:711
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: inc/classes/class-astra-sites-page.php:442
+msgid "We offer starter templates that can be imported in one click. These sites are available in the following page builders. Please choose your preferred page builder from the list below."
+msgstr "We bieden starter templates die met één klik kunnen worden geïmporteerd. Deze sites zijn beschikbaar in de volgende paginabouwers. Kies je favoriete paginabuilder uit de onderstaande lijst."
+
+#: inc/classes/class-astra-sites-page.php:441
+msgid "Select Page Builder"
+msgstr "Selecteer Page Builder"
+
+#. translators: %1$s is the admin page URL, %2$s is product name.
+#: inc/classes/class-astra-sites-page.php:136
+msgid "Thank you for choosing %1$s! Check the library of <a class=\"astra-sites-getting-started-btn\" href=\"%2$s\">ready starter templates here »</a>"
+msgstr "Bedankt voor het kiezen van %1$s! Bekijk de bibliotheek met <a class=\"astra-sites-getting-started-btn\" href=\"%2$s\">kant-en-klare starter templates hier</a>"
+
+#: inc/classes/class-astra-sites.php:1523
+msgid "Plugin Activated"
+msgstr "Plugin geactiveerd"
+
+#: inc/includes/admin-page.php:722
+msgid "Import Widgets"
+msgstr "Widgets geïmporteerd!"
+
+#: inc/classes/class-astra-sites.php:800
+msgid "Theme Activated"
+msgstr "Thema geactiveerd"
+
+#: inc/classes/class-astra-sites.php:1368 inc/includes/admin-page.php:729
+msgid "Install Required Plugins"
+msgstr "Installeer vereiste plugins"
+
+#: inc/classes/class-astra-sites.php:1079
+msgid "Installing..."
+msgstr "Installeren..."
+
+#: inc/classes/class-astra-sites.php:1077
+msgid "Activating..."
+msgstr "Activeren..."
+
+#: inc/classes/class-astra-sites.php:1076
+msgid "Installed! Activating.."
+msgstr "Geïnstalleerd! Activeren..."
+
+#: inc/classes/class-astra-sites-page.php:716
+msgid "Brizy"
+msgstr "Brizy"
+
+#: inc/classes/class-astra-sites-page.php:706
+msgid "Beaver Builder"
+msgstr "Bever builder"
+
+#: inc/classes/class-astra-sites-page.php:701
+msgid "Elementor"
+msgstr "Elementor"
+
+#: inc/includes/admin-page.php:687
+msgid "WARNING: Selecting this option will delete all data from the previous import. Choose this option only if this is intended."
+msgstr "Waarschuwing: Als je deze optie selecteert, worden alle gegevens van de vorige import verwijderd. Kies deze optie alleen als dit de bedoeling is."
+
+#: inc/includes/admin-page.php:744
+msgid "Selecting this option will import dummy pages, posts, images, and menus. If you do not want to import dummy content, please uncheck this option."
+msgstr "Als je deze optie selecteert, worden dummy-pagina's, berichten, afbeeldingen en menu's geïmporteerd. Schakel deze optie uit als je geen dummy-inhoud wil importeren."
+
+#. translators: %s is article link
+#: inc/includes/admin-page.php:466
+msgid "Learn how you can <a href=\"%1$s\" target=\"_blank\">activate the license</a> of the %2$s plugin."
+msgstr "Lees hoe je de <a href=\"%1$s\" target=\"_blank\">licentie</a> van de %2$s plugin kan activeren."
+
+#: inc/includes/admin-page.php:461
+msgid "You are just 2 minutes away from importing this demo!"
+msgstr "Je bent slechts 2 minuten verwijderd van het importeren van deze demo!"
+
+#. translators: %s is article link
+#: inc/includes/admin-page.php:406
+msgid "If you already own an Agency pack. Read an article to know how you can <a href=\"%s\" target=\"_blank\">import a premium website demo</a>."
+msgstr "Als je al een Agency pakket hebt. Lees een artikel om te weten hoe je <a href=\"%s\" target=\"_blank\">een premium site demo</a> kan importeren."
+
+#: inc/classes/class-astra-sites.php:1161
+#: inc/classes/class-astra-sites.php:1361
+msgid "Get Agency Bundle"
+msgstr "Koop de Agency Bundel"
+
+#: inc/classes/class-astra-sites-importer.php:346
+msgid "If XMLReader is not available, it imports all other settings and only skips XML import. This creates an incomplete website. We should bail early and not import anything if this is not present."
+msgstr "Als XMLReader niet beschikbaar is, worden alle andere instellingen geïmporteerd en wordt alleen XML-import overgeslagen. Hierdoor ontstaat een onvolledige site. We moeten vroeg stoppen en niets importeren als dit niet aanwezig is."
+
+#. translators: %s is the white label name.
+#: inc/classes/class-astra-sites-page.php:325
+msgid "%s import requires XMLReader extension to be installed. Please contact your web hosting provider and ask them to install and activate the XMLReader PHP extension."
+msgstr "%s import vereist dat de XMLReader extensie is geïnstalleerd. Neem contact op met je webhosting provider en vraag hen om de XMLReader PHP extensie te installeren en te activeren."
+
+#: inc/classes/class-astra-sites-page.php:323
+msgid "Required XMLReader PHP extension is missing on your server!"
+msgstr "Vereiste XMLreader PHP extensie ontbreekt op je server!"
+
+#. translators: %s are white label strings.
+#: inc/classes/class-astra-sites.php:1177
+msgid "Warning! %1$s Import process is not complete. Don't close the window until import process complete. Do you still want to leave the window?"
+msgstr "Waarschuwing! %1$s het importproces is niet voltooid. Sluit het venster niet voordat het importproces is voltooid. Wil je toch het venster verlaten?"
+
+#: inc/importers/wxr-importer/class-astra-wxr-importer.php:422
+msgid "Import complete!"
+msgstr "Import voltooid!"
+
+#: inc/classes/class-astra-sites-wp-cli.php:276
+msgid "Importing Widgets.."
+msgstr "Widgets importeren..."
+
+#: inc/classes/class-astra-sites-wp-cli.php:268
+msgid "Importing Site Options.."
+msgstr "Site opties importeren..."
+
+#: inc/includes/admin-page.php:707
+msgid "Import Customizer Settings"
+msgstr "Importeer customizer instellingen"
+
+#. translators: %s is the site URL.
+#: inc/classes/class-astra-sites-wp-cli.php:286
+msgid ""
+"Site Imported Successfully!\n"
+"Visit: %s"
+msgstr ""
+"Site met succes geïmporteerd\n"
+"Bezoek: %s"
+
+#: inc/classes/class-astra-sites-importer.php:489
+msgid "Widget data is empty!"
+msgstr "Widgetgegevens zijn leeg!"
+
+#: inc/classes/class-astra-sites-importer.php:438
+msgid "Site options are empty!"
+msgstr "Site opties zijn leeg!"
+
+#: inc/classes/class-astra-sites-importer.php:393
+msgid "Invalid site XML file!"
+msgstr "Ongeldig xml-bestand van de site!"
+
+#: inc/classes/class-astra-sites-importer.php:379
+msgid "There was an error downloading the XML file."
+msgstr "Er is een fout opgetreden bij het downloaden van het xml-bestand."
+
+#: inc/classes/class-astra-sites-importer.php:324
+msgid "Customizer data is empty!"
+msgstr "Customizer gegevens zijn leeg!"
+
+#: inc/classes/class-astra-sites-importer-log.php:357
+#: inc/classes/class-astra-sites-importer-log.php:416
+msgid "No"
+msgstr "Nee"
+
+#: inc/classes/class-astra-sites-importer-log.php:354
+#: inc/classes/class-astra-sites-importer-log.php:413
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/classes/class-astra-sites-importer-log.php:368
+msgctxt "PHP Version"
+msgid "We recommend to use php 5.4 or higher"
+msgstr "We bevelen aan om php 5.4 of hoger te gebruiken"
+
+#. translators: %1$s Memory Limit, %2$s Recommended memory limit.
+#: inc/classes/class-astra-sites-importer-log.php:287
+msgctxt "Recommended Memory Limit"
+msgid "Current memory limit %1$s. We recommend setting memory to at least %2$s."
+msgstr "Huidige geheugen limiet %1$s. We bevelen aan om de geheugen limiet ten minste in te stellen op %2$s."
+
+#: inc/classes/class-astra-sites-importer-log.php:269
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: inc/classes/class-astra-sites-importer-log.php:266
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#. translators: %1$s External Link
+#: inc/includes/admin-page.php:126 inc/includes/image-templates.php:96
+#: inc/includes/templates.php:241 inc/includes/templates.php:325
+#: inc/includes/templates.php:412 inc/includes/templates.php:474
+msgid "Don't see a template you would like to import?<br><a target=\"_blank\" href=\"%1$s\">Make a Template Suggestion!</a>"
+msgstr "Zie je geen template die je wil importeren? <br><a target=\"_blank\" href=\"%1$s\">Maak een template suggestie!</a>"
+
+#: inc/includes/white-label.php:34
+msgid "Plugin Description:"
+msgstr "Plugin beschrijving:"
+
+#: inc/includes/white-label.php:29
+msgid "Plugin Name:"
+msgstr "Plugin naam:"
+
+#. translators: %1$s product name
+#: inc/classes/class-astra-sites-white-label.php:211
+msgid "%1$s Branding"
+msgstr "%1$s Branding"
+
+#. translators: %d are the minutes.
+#: inc/importers/batch-processing/helpers/class-wp-background-process.php:440
+msgid "Every %d Minutes"
+msgstr "Elke %d minuten"
+
+#: inc/classes/class-astra-sites.php:1163
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: inc/classes/class-astra-sites-page.php:387
+msgid "Settings saved successfully."
+msgstr "Instellingen succesvol opgeslagen."
+
+#. Author URI of the plugin
+msgid "https://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#. translators: %d is comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2281
+msgid "Could not update comment #%d with mapped data"
+msgstr "Kon reactie #%d niet bijwerken met toegewezen gegevens"
+
+#. translators: %1$d is comment id, %2$d is author id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2261
+msgid "Comment %1$d was imported with author %2$d, but could not be found"
+msgstr "Reactie %1$d is geïmporteerd met auteur %2$d, maar is niet gevonden"
+
+#. translators: %d is comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2254
+msgid "Could not find the author for comment #%d"
+msgstr "Kon de auteur niet vinden voor reactie #%d"
+
+#. translators: %1$s is comment id, %2$s is parent comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2237
+msgid "Comment %1$d was imported with parent %2$d, but could not be found"
+msgstr "Reactie %1$d is geïmporteerd met bovenliggend item %2$d, maar is niet gevonden"
+
+#. translators: %d is comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2230
+msgid "Could not find the comment parent for comment #%d"
+msgstr "Kon de reactie parent voor reactie #%d niet vinden"
+
+#. translators: %1$s is post id, %2$s is post object id, %3$s is menu type.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2199
+msgid "Post %1$d was imported with object \"%2$d\" of type \"%3$s\", but could not be found"
+msgstr "Bericht %1$d is geïmporteerd met object \"%2$d\" van het type \"%3$s\", maar kon niet worden gevonden"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2191
+msgid "Could not find the menu object for \"%1$s\" (post #%2$d)"
+msgstr "Kon het menu-object voor \"%1$s\" (bericht #%2$d) niet vinden"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2137
+msgid "Could not update \"%1$s\" (post #%2$d) with mapped data"
+msgstr "Kon \"%1$s\" (bericht #%2$d) niet bijwerken met toegewezen gegevens"
+
+#. translators: %d is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2123
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "Bericht %d was gemarkeerd voor nabewerking, maar was niet vereist."
+
+#. translators: %1$d is post id, %2$s is author slug.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2094
+msgid "Post %1$d was imported with author \"%2$s\", but could not be found"
+msgstr "Bericht %1$d is geïmporteerd met auteur \"%2$s\", maar kon niet worden gevonden"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2086
+msgid "Could not find the author for \"%1$s\" (post #%2$d)"
+msgstr "Kon de auteur niet vinden voor \"%1$s\" (bericht #%2$d)"
+
+#. translators: %1$d is post id, %2$d is parent post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2069
+msgid "Post %1$d was imported with parent %2$d, but could not be found"
+msgstr "Bericht %1$d is geïmporteerd met bovenliggend item %2$d, maar is niet gevonden"
+
+#. translators: %1$s is post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2061
+msgid "Could not find the post parent for \"%1$s\" (post #%2$d)"
+msgstr "Kon het bovenliggende bericht voor \"%1$s\" (bericht #%2$d) niet vinden"
+
+#. translators: %d is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2045
+msgid "Running post-processing for post %d"
+msgstr "Uitvoeren van nabewerking voor bericht %d"
+
+#. translators: %s max file size.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2012
+msgid "Remote file is too large, limit is %s"
+msgstr "Extern bestand is te groot, limiet is %s"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2005
+msgid "Zero size file downloaded"
+msgstr "Bestand met nulgrootte gedownload"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2000
+msgid "Remote file is incorrect size"
+msgstr "Extern bestand heeft een onjuiste grootte"
+
+#. translators: %1$s is error code, %2$s is error code header, %3$s is url.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1987
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "Externe server heeft %1$d %2$s geretourneerd voor %3$s"
+
+#. translators: %1$s is term original id, %2$s is term id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1929
+msgid "Term %1$d remapped to %2$d"
+msgstr "Term %1$d opnieuw toegewezen aan %2$d"
+
+#. translators: %1$s is the taxonomy, %2$s is taxonomy name.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1894
+msgid "Failed to import %1$s %2$s"
+msgstr "Kan %1$s %2$s niet importeren"
+
+#. translators: %1$s original user Id, %2$s old user Id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1729
+msgid "User %1$d remapped to %2$d"
+msgstr "Gebruiker %1$d opnieuw toegewezen aan %2$d"
+
+#. translators: %s user login name
+#: inc/importers/wxr-importer/class-wxr-importer.php:1722
+msgid "Imported user \"%s\""
+msgstr "Geïmporteerde gebruiker \"%s"
+
+#. translators: %s user login name
+#: inc/importers/wxr-importer/class-wxr-importer.php:1698
+msgid "Failed to import user \"%s\""
+msgstr "Kan gebruiker \"%s  niet importeren"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1192
+msgid "Invalid file type"
+msgstr "Ongeldig bestandstype"
+
+#. translators: %1$s is the original post id, %2$s is old post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1041
+msgid "Post %1$d remapped to %2$d"
+msgstr "Bericht %1$d opnieuw toegewezen aan %2$d"
+
+#. translators: %1$s is the post title, %2$s is post type.
+#. translators: %1$s is the taxonomy name, %2$s is taxonomy.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1033
+#: inc/importers/wxr-importer/class-wxr-importer.php:1921
+msgid "Imported \"%1$s\" (%2$s)"
+msgstr "Geïmporteerde \"%1$s\" (%2$s)"
+
+#. translators: %1$s is the post title, %2$s is post type.
+#: inc/importers/wxr-importer/class-wxr-importer.php:998
+msgid "Failed to import \"%1$s\" (%2$s)"
+msgstr "Importeren van \"%1$s\" (%2$s) mislukt"
+
+#. translators: %s is post title
+#: inc/importers/wxr-importer/class-wxr-importer.php:974
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "Bijlage \"%s\" overslaan, bijlagen ophalen uitgeschakeld"
+
+#. translators: %1$s single post type, %2$s is post title.
+#: inc/importers/wxr-importer/class-wxr-importer.php:877
+msgid "%1$s \"%2$s\" already exists."
+msgstr "%1$s\"%2$s\" bestaat al."
+
+#. translators: %1$s is the import message, %2$s is post type.
+#: inc/importers/wxr-importer/class-wxr-importer.php:864
+msgid "Failed to import \"%1$s\": Invalid post type %2$s"
+msgstr "Importeren van \"%1$s\" mislukt: Ongeldig berichttype %2$s"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:769
+msgid "Cannot import auto-draft posts"
+msgstr "Kan geen automatisch conceptberichten importeren"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:668
+msgid "Invalid author mapping"
+msgstr "Ongeldige auteurstoewijzing"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:608
+msgid "The file does not exist, please try again."
+msgstr "Het bestand bestaat niet, probeer het opnieuw."
+
+#. translators: %1$s is WXR version, %2$s is max supported WXR version.
+#: inc/importers/wxr-importer/class-wxr-importer.php:262
+#: inc/importers/wxr-importer/class-wxr-importer.php:381
+#: inc/importers/wxr-importer/class-wxr-importer.php:457
+msgid "This WXR file (version %1$s) is newer than the importer (version %2$s) and may not be supported. Please consider updating."
+msgstr "Dit WXR-bestand (versie %1$s) is nieuwer dan de importeur (versie %2$s) en wordt mogelijk niet ondersteund. Overweeg om bij te werken."
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:224
+msgid "Could not open the file for parsing"
+msgstr "Kan het bestand niet openen om te parsen"
+
+#: inc/importers/class-astra-widget-importer.php:268
+msgid "No Title"
+msgstr "Geen titel"
+
+#: inc/importers/class-astra-widget-importer.php:262
+msgid "Imported to Inactive"
+msgstr "Geïmporteerd naar Inactive"
+
+#: inc/importers/class-astra-widget-importer.php:259
+msgid "Imported"
+msgstr "Geïmporteerd"
+
+#: inc/importers/class-astra-widget-importer.php:190
+msgid "Widget already exists"
+msgstr "Widget bestaat al"
+
+#: inc/importers/class-astra-widget-importer.php:154
+msgid "Site does not support widget"
+msgstr "Site ondersteunt geen widget"
+
+#: inc/importers/class-astra-widget-importer.php:132
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr "Widgetgebied bestaat niet in thema (met Inactive)"
+
+#: inc/importers/class-astra-widget-importer.php:88
+msgid "Import data could not be read. Please try a different file."
+msgstr "Importgegevens kunnen niet worden gelezen. Probeer een ander bestand."
+
+#: inc/classes/class-astra-sites.php:1178
+msgid "Done! View Site"
+msgstr "Gedaan! Bekijk site"
+
+#: inc/classes/class-astra-sites.php:924
+msgid "See Library"
+msgstr "Zie bibliotheek"
+
+#: inc/includes/templates.php:122 inc/includes/templates.php:123
+msgid "Close"
+msgstr "Sluiten "
+
+#: inc/classes/class-astra-sites.php:986
+#: inc/classes/class-astra-sites-page.php:595
+#: inc/classes/class-astra-sites-page.php:597
+#: inc/classes/class-astra-sites-page.php:609 inc/includes/templates.php:28
+#: inc/includes/templates.php:35
+msgid "All"
+msgstr "Allemaal"

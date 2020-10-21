@@ -1,0 +1,48 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_corporate_plus">
+            <key name="corporate_plus_theme_options">
+                <key name="corporate-plus-slider-type"/>
+                <key name="corporate-plus-feature-slider-image-only"/>
+                <key name="corporate-plus-fs-image-display-options"/>
+                <key name="corporate-plus-feature-page"/>
+                <key name="corporate-plus-featured-slider-number"/>
+                <key name="corporate-plus-go-down"/>
+                <key name="corporate-plus-enable-feature"/>
+                <key name="corporate-plus-slider-know-more-text"/>
+                <key name="corporate-plus-header-logo"/>
+                <key name="corporate-plus-header-id-display-opt"/>
+                <key name="corporate-plus-enable-sticky-menu"/>
+                <key name="corporate-plus-enable-woo-menu"/>
+                <key name="corporate-plus-facebook-url"/>
+                <key name="corporate-plus-twitter-url"/>
+                <key name="corporate-plus-youtube-url"/>
+                <key name="corporate-plus-google-plus-url"/>
+                <key name="corporate-plus-enable-social"/>
+                <key name="corporate-plus-footer-copyright"/>
+                <key name="corporate-plus-hide-front-page-content"/>
+                <key name="corporate-plus-sidebar-layout"/>
+                <key name="corporate-plus-front-page-sidebar-layout"/>
+                <key name="corporate-plus-archive-sidebar-layout"/>
+                <key name="corporate-plus-blog-archive-layout"/>
+                <key name="corporate-plus-blog-archive-img-size"/>
+                <key name="corporate-plus-primary-color"/>
+                <key name="corporate-plus-custom-css"/>
+                <key name="corporate-plus-enable-animation"/>
+                <key name="corporate-plus-blog-archive-more-text"/>
+                <key name="corporate-plus-wc-shop-archive-sidebar-layout"/>
+                <key name="corporate-plus-wc-product-column-number"/>
+                <key name="corporate-plus-wc-shop-archive-total-product"/>
+                <key name="corporate-plus-wc-single-product-sidebar-layout"/>
+                <key name="corporate-plus-search-placholder"/>
+                <key name="corporate-plus-show-breadcrumb"/>
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
+
+
+
+

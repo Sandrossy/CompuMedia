@@ -1,0 +1,47 @@
+{
+  "name": "publishpress/publishpress-checklists",
+  "type": "wordpress-plugin",
+  "description": "",
+  "license": "GPL-2",
+  "authors": [
+    {
+      "name": "PublishPress",
+      "email": "help@publishpress.com"
+    }
+  ],
+  "config": {
+    "preferred-install": "dist"
+  },
+  "autoload": {
+    "psr-4": {
+      "PublishPress\\Checklists\\Core\\": "core/",
+      "PublishPress\\Checklists\\Permalinks\\": "modules/permalinks/lib",
+      "PublishPress\\Checklists\\Yoastseo\\": "modules/yoastseo/lib"
+    }
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/publishpress/PublishPress-Plugin-Builder"
+    },
+    {
+      "type": "git",
+      "url": "https://github.com/publishpress/wp-browser"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.20",
+    "pimple/pimple": "~3.0",
+    "publishpress/wordpress-version-notices": "^1.0"
+  },
+  "require-dev": {
+    "publishpress/publishpress-plugin-builder": "^1.2",
+    "publishpress/wp-browser": "2.6.5.2",
+    "codeception/module-asserts": "^1.2",
+    "codeception/module-phpbrowser": "^1.0",
+    "codeception/module-db": "^1.0",
+    "codeception/util-universalframework": "^1.0",
+    "overtrue/phplint": "^2.1"
+  },
+  "minimum-stability": "stable"
+}
